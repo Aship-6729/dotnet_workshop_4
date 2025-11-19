@@ -1,0 +1,15 @@
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\bin\Debug\net9.0\Task 2.exe
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\bin\Debug\net9.0\Task 2.deps.json
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\bin\Debug\net9.0\Task 2.runtimeconfig.json
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\bin\Debug\net9.0\Task 2.dll
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\bin\Debug\net9.0\Task 2.pdb
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\Task 2.AssemblyInfoInputs.cache
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\Task 2.AssemblyInfo.cs
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\Task 2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\Task 2.sourcelink.json
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\Task 2.dll
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\refint\Task 2.dll
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\Task 2.pdb
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\Task 2.genruntimeconfig.cache
+D:\Visual Studio Project\Application Dev workshop\Workshop-4\Solution_Workshop-4\Task 2\obj\Debug\net9.0\ref\Task 2.dll
